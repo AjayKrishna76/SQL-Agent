@@ -1,0 +1,31 @@
+# OpenAI's API for language model interactions
+openai
+
+# LangChain for LLM integration and prompt handling
+langchain
+
+# SQLAlchemy for database connections and schema inspection
+SQLAlchemy
+
+# mysql-connector-python for connecting to MySQL databases
+mysql-connector-python
+
+# dotenv for environment variable management
+python-dotenv
+
+# NetworkX for workflow graph visualization
+networkx
+
+# Matplotlib for visualizing the workflow with NetworkX
+matplotlib
+
+# Pydantic for data validation and parsing
+pydantic
+
+# Typing-extensions for TypedDict support in older Python versions
+typing-extensions
+
+os
+langgraph
+langchain-core
+langchain-openai
